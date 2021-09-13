@@ -1,3 +1,7 @@
+ckpts/*
+results/*
+results_all/*
+.DS_Store
 t Byte-compiled / optimized / DLL files
 deps.txt
 archive
